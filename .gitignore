@@ -1,2 +1,12 @@
 
 .vscode/tasks.json
+average.exe
+Mad-libs.exe
+pyramid.exe
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+build/Debug/average.o
+build/Debug/basic-calculator.o
+build/Debug/Mad-libs.o
+build/Debug/pyramid.o
