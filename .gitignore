@@ -11,5 +11,7 @@ build/Debug/basic-calculator.o
 build/Debug/Mad-libs.o
 build/Debug/pyramid.o
 bsd_moez-rashed_c-programming/part2/advanced-calculator.exe
-bsd_moez-rashed_c-programming/part3/Guessing-game.c
+
 .gitignore
+bsd_moez-rashed_c-programming/part3/Guessing-game.exe
+bsd_moez-rashed_c-programming/part3/Guessing-game.exe
