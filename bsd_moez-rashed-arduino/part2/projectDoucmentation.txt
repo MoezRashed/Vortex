@@ -1,0 +1,10 @@
+Squad bsd -> part 2 project 
+
+The code:
+buttons are represented as:
+- up for forward movement
+- down for backward movement
+- right for turning right around right wheel axis with left wheel moving forward and right wheel stationary
+- left for turning left around left wheel axis with right wheel moving forward and left wheel stationary
+contributions:
+This code was delivered by moez rashed
