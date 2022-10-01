@@ -1,0 +1,4 @@
+squad bsd :
+contributions :
+nour el din added the bluetooth functionality to the code already submitted in part2
+moez rashed drew the diagram showing all the needed connections 
